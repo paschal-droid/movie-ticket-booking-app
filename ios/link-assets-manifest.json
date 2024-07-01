@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/app_icons.ttf",
+      "sha1": "017e9e000c7fa8dbb481f2c3e6271196c4658d46"
+    },
+    {
+      "path": "src/assets/fonts/icomoon.ttf",
+      "sha1": "57d66efcde2ae68f82da0a2f2341be8ad12df7f5"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/image/avatar.png",
+      "sha1": "2c2a37f7d856525ac75feb7cfdc26afd7b03513d"
+    },
+    {
+      "path": "src/assets/image/barcode.png",
+      "sha1": "11e2d372d192130e612eb026cf1b261f64869a48"
+    },
+    {
+      "path": "src/assets/image/default_post.png",
+      "sha1": "cb1131795f6e95aafbc51ab6c7e3bee898464c4d"
+    },
+    {
+      "path": "src/assets/image/splash_screen.png",
+      "sha1": "a3f589073cd16e633777d3276f3cefeb8d905ab2"
+    }
+  ]
+}
